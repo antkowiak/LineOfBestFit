@@ -1,13 +1,13 @@
 /**
  *
- * Copyright (c) 2016 Ryan Antkowiak (antkowiak@gmail.com)
+ * Copyright (c) 2016 Ryan Antkowiak 
  * All rights reserved.
  * It is provided AS_IS, WITHOUT ANY WARRANTY either expressed or implied.
  * You may study, use, and modify it for any non-commercial purpose.
  * You may distribute it non-commercially as long as you retain this notice.
- * For a commercial license, contact antkowiak@gmail.com.
+ * For a commercial license, contact .
  *
- * @author Ryan Antkowiak (antkowiak@gmail.com)
+ * @author Ryan Antkowiak 
  *
  *
  * Simple program that calculates a "Line of Best Fit" using the "Least Square Method."
